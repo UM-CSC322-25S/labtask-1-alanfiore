@@ -1,5 +1,5 @@
 Program's Parent Process: the shell.  
-Parent's Parent Process: the root (init)  
-Parent's Parent's Parent Process: process 0, the operating system, or the kernel. 
+Parent's Parent Process: the root (init).  
+Parent's Parent's Parent Process: process 0 (the operating system). 
   
 
