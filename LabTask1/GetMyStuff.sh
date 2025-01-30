@@ -6,5 +6,6 @@ echo "GROUP_ID=$(id -g)"
 echo "GROUP_NAMES=$(id -Gn)"
 echo "SHELL_PATH=$(echo $SHELL)"
 echo "HOME_DIR=$(echo $HOME)"
-echo "PATH_VAR=$(echo $PATH):
+echo "PATH_VAR=$(echo $PATH)"
+
 
